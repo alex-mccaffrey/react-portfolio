@@ -1,0 +1,19 @@
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+#profile-pic {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+  }
+
+.summary {
+    max-width: 50%;
+} 

@@ -1,0 +1,22 @@
+footer {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: #BDC2BF;
+    min-height: 55px;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  footer h3 {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    font-weight: 300;
+    color: black;
+  }
+  
+
+  

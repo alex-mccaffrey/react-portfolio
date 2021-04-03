@@ -1,0 +1,51 @@
+nav {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  grid-template-columns:
+    repeat(
+      auto-fit,
+      minmax(
+        350px, /* min value */
+        1fr /* max value */
+      )
+    );
+  gap: 20px;
+  background-color: #BDC2BF;
+  min-height: 12px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-li {
+    margin: 5px;
+    font-size: 20px;
+}
+
+
+nav h1 {
+  font-size: 30px
+}
+
+
+#amac-logo {
+    max-width: 50px;
+    background-color: black;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 10px;
+}
