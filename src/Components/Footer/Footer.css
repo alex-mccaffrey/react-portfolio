@@ -1,6 +1,6 @@
 footer {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     position: absolute;
     left: 0;
     bottom: 0;
@@ -18,5 +18,14 @@ footer {
     color: black;
   }
   
+  .social-icons a {
+      display: flex;
+      justify-content: space-around;
+  }
+
+  .social-btn {
+      color: black;
+      margin-right: 10px;
+  }
 
   
