@@ -1,0 +1,23 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 700px;
+    padding: 20px;
+    border: black;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+   
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}

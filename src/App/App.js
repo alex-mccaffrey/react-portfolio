@@ -6,6 +6,7 @@ import About from "../Components/About/About";
 import Footer from "../Components/Footer/Footer"
 import Home from "../Components/Home/Home";
 import { Route } from "react-router-dom";
+import "./App.css"
 
 
 
@@ -27,14 +28,14 @@ class App extends Component {
   render() {
     return (
       //<ApiContext.Provider value={value}>
-      <body className="App">
+      <main className="App">
         <Nav />
         <header>
-          <h1>Hi, I'm Alex McCaffrey</h1>
+          <h1 className="home-title">Hi, I'm Alex McCaffrey</h1>
         </header>
         <main className="App_main">{this.renderMainRoutes()}</main>
         <Footer />
-      </body>
+      </main>
       //</ApiContext.Provider>
     );
   }

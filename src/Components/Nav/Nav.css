@@ -6,12 +6,12 @@ nav {
     repeat(
       auto-fit,
       minmax(
-        350px, /* min value */
+        330px, /* min value */
         1fr /* max value */
       )
     );
   gap: 20px;
-  background-color: #BDC2BF;
+  background-color: #9BC1BC;
   min-height: 12px;
   left: 0;
   bottom: 0;
@@ -24,11 +24,13 @@ nav a {
   color: black;
 }
 
-ul {
+.nav-links {
     display: flex;
     flex-direction: row;
+    justify-content: center;
     align-items: center;
     list-style: none;
+    padding: 0;
 }
 
 .nav-li {

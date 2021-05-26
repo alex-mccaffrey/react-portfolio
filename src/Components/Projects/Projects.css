@@ -1,0 +1,48 @@
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 900px;
+}
+
+ul {
+    padding-inline-start: 0;
+}
+
+
+.projects-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    list-style: none;
+}
+
+.projects-list li {
+    max-width: 320px;
+    
+}
+
+.project-screenshot {
+    width: 310px;
+    height: 270px;
+    margin: 10px;
+}
+
+li a {
+    color: black;
+}
+
+.project-item {
+    margin: 20px;
+}
+
+.projects-intro {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    border-radius: 10px;
+}

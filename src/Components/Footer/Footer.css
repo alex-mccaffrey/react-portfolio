@@ -1,10 +1,11 @@
 footer {
     display: flex;
     justify-content: space-around;
+    align-items: center;
     position: absolute;
     left: 0;
     bottom: 0;
-    background-color: #BDC2BF;
+    background-color: #9BC1BC;
     min-height: 55px;
     width: 100%;
     overflow: hidden;
@@ -18,9 +19,11 @@ footer {
     color: black;
   }
   
-  .social-icons a {
+  .social-icons {
       display: flex;
       justify-content: space-around;
+      align-items: center;
+
   }
 
   .social-btn {
@@ -28,4 +31,7 @@ footer {
       margin-right: 10px;
   }
 
-  
+  .resume {
+      text-decoration: none;
+      color: black;
+  }
