@@ -3,12 +3,6 @@
 Live app: (https://alexmccaffrey.dev)
 
 
-## Table of Contents
-
-- Summary
-- Screenshots
-- Technologies
-
 ## Summary
 
 I am a full-stack web developer, passionate about applying my skills to help create clean and efficient code. My developer background includes building full stack applications from the ground up, updating code to add features and fix bugs, and creating useful tools that benefit the users.
