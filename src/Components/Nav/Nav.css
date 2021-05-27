@@ -31,6 +31,7 @@ nav a {
     align-items: center;
     list-style: none;
     padding: 0;
+    flex-wrap: wrap;
 }
 
 .nav-li {

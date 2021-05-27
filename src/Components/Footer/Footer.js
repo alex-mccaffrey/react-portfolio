@@ -12,27 +12,21 @@ class Footer extends Component {
         <section className="social-icons">
           <a
             className="social-btn"
-            href="https://github.com/amccaff20"
+            href="https://github.com/alex-mccaffrey"
             target="_blank"
             rel="noopener noreferrer"
+            alt="github button"
           >
             {" "}
             <FontAwesomeIcon icon={faGithub} size="2x" />
             <i className="far fa-linkedin"></i>
           </a>
           <a
-            className="btn btn-dark btn-social mx-2"
-            href="https://github.com/alex-mccaffrey"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i className="fab fa-github"></i>
-          </a>
-          <a
             className="social-btn"
             href="https://www.linkedin.com/in/alex-mccaffrey"
             target="_blank"
             rel="noopener noreferrer"
+            alt="linkedin button"
           >
             {" "}
             <FontAwesomeIcon icon={faLinkedin} size="2x" />
@@ -41,6 +35,7 @@ class Footer extends Component {
             className="social-btn"
             href="mailto:alexmccaffrey07@gmail.com"
             rel="noopener noreferrer"
+            alt="email button"
           >
             {" "}
             <FontAwesomeIcon icon={faEnvelope} size="2x" />
@@ -49,6 +44,7 @@ class Footer extends Component {
             className="social-btn"
             href="tel:781-336-8196"
             rel="noopener noreferrer"
+            alt="call button"
           >
             {" "}
             <FontAwesomeIcon icon={faPhoneSquare} size="2x" />

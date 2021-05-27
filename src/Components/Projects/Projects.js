@@ -21,7 +21,7 @@ export class Projects extends Component {
         <ul className="projects-list">
           <li className="project-item">
             <h3>Wanderer</h3>
-            <p>May 2021</p>
+            <h4>May 2021</h4>
             <p>
               Here is a link to the live app:{" "}
               <a
@@ -40,8 +40,17 @@ export class Projects extends Component {
                 target="_blank"
                 rel="noreferrer"
               >
-                GitHub Repo
+                Client
               </a>
+              {", "}
+              <a
+                href="https://github.com/alex-mccaffrey/wanderer-api"
+                target="_blank"
+                rel="noreferrer"
+              >
+                API
+              </a>
+              
             </p>
             <a
               href="https://wanderer.vercel.app/"
@@ -70,7 +79,7 @@ export class Projects extends Component {
 
           <li className="project-item">
             <h3>SK9</h3>
-            <p>March 2021</p>
+            <h4>March 2021</h4>
             <p>
               Here is a link to the live app:{" "}
               <a
@@ -89,7 +98,15 @@ export class Projects extends Component {
                 target="_blank"
                 rel="noreferrer"
               >
-                GitHub Repo
+                Client
+              </a>
+              {", "}
+              <a
+                href="https://github.com/alex-mccaffrey/sk9-api"
+                target="_blank"
+                rel="noreferrer"
+              >
+                API
               </a>
             </p>
             <a href="https://sk9.vercel.app/" target="_blank" rel="noreferrer">
@@ -110,7 +127,7 @@ export class Projects extends Component {
 
           <li className="project-item">
             <h3>Hiking Project</h3>
-            <p>December 2020</p>
+            <h4>December 2020</h4>
             <p>
               Here is a link to the live app:{" "}
               <a
@@ -160,7 +177,7 @@ export class Projects extends Component {
 
           <li className="project-item">
             <h3>Vail Quiz App</h3>
-            <p>November 2020</p>
+            <h4>November 2020</h4>
             <p>
               Here is a link to the live app:{" "}
               <a

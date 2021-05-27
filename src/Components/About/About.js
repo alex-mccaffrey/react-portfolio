@@ -15,7 +15,7 @@ export class About extends Component {
           </p>
           <p>
             During my time on Patrol, I learned the importance of working as a
-            cohesive unit at all times, and adapting to sudden changes and
+            cohesive unit, adapting to sudden changes and
             unexpected events. I have adapted this skill into all aspects of my
             life, including web development.
           </p>
@@ -24,7 +24,7 @@ export class About extends Component {
             best that I can. I made the decision to finally fulfill a dream of
             becoming a software developer and prove to myself and others that I
             can accomplish anything I put my mind to. After 7 months in a
-            full-stack software engineering program, I know have the skills and
+            full-stack software engineering program, I now have the skills and
             knowledge to succeed as a developer. This program built a foundation
             in HTML, CSS, JavaScript, React, Node.js, Express, and SQL.
           </p>

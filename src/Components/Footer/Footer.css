@@ -9,6 +9,7 @@ footer {
     min-height: 55px;
     width: 100%;
     overflow: hidden;
+    flex-wrap: wrap;
   }
   
   footer h3 {

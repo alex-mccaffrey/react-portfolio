@@ -22,9 +22,9 @@ export class Home extends Component {
             situations, being friendly and approachable, and thinking outside
             the box.
             <br />
-            <br />
-            If you you'd like to join forces and make greatness happen, please
-            don't hesitate to reach out via email, phone, or LinkedIn.
+            <br />I would love to contribute to a team with great programmers.
+            If you would like to join forces and conquer the world, please don't
+            hesitate to reach out via email, phone, or LinkedIn.
           </p>
           <section className="pics">
             <img
