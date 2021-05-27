@@ -23,7 +23,7 @@ export class Projects extends Component {
             <h3>Wanderer</h3>
             <h4>May 2021</h4>
             <p>
-              Here is a link to the live app:{" "}
+              Here is the live app:{" "}
               <a
                 href="https://wanderer.vercel.app/"
                 className-="project-link"
@@ -50,7 +50,6 @@ export class Projects extends Component {
               >
                 API
               </a>
-              
             </p>
             <a
               href="https://wanderer.vercel.app/"
@@ -81,7 +80,7 @@ export class Projects extends Component {
             <h3>SK9</h3>
             <h4>March 2021</h4>
             <p>
-              Here is a link to the live app:{" "}
+              Here is the live app:{" "}
               <a
                 href="https://sk9.vercel.app/"
                 className-="project-link"
@@ -129,7 +128,7 @@ export class Projects extends Component {
             <h3>Hiking Project</h3>
             <h4>December 2020</h4>
             <p>
-              Here is a link to the live app:{" "}
+              Here is the live app:{" "}
               <a
                 href="https://alex-mccaffrey.github.io/hiking-api-project/index.html"
                 className-="project-link"
@@ -179,7 +178,7 @@ export class Projects extends Component {
             <h3>Vail Quiz App</h3>
             <h4>November 2020</h4>
             <p>
-              Here is a link to the live app:{" "}
+              Here is the live app:{" "}
               <a
                 href="https://alex-mccaffrey.github.io/vail-quiz-app/"
                 className-="project-link"
