@@ -11,7 +11,7 @@ export class Projects extends Component {
       <div className="projects">
         <section className="projects-intro">
           <h2>Recent Project</h2>
-          <p>
+          <p className="projects-info">
             Here is a sample of some recent projects. For more projects and code
             files, please visit my GitHub through the link at the bottom of the
             page.
