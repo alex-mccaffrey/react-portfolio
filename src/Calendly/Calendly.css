@@ -1,0 +1,10 @@
+.schedule-button {
+    background-color: #00a2ff;
+    border-style: none;
+    color: white;
+    height: 35px;
+    width: 85px;
+    margin-top: 20px;
+    box-shadow: 5px 5px 5px 0px #7B8479;
+    border-radius: 20px;
+}
