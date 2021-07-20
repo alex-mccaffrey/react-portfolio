@@ -52,7 +52,7 @@ class Footer extends Component {
         </section>
         <a
           className="resume"
-          href="https://drive.google.com/file/d/1L4j9lvzIZVlz6xJqB7FFzde3rAb6z62-/view?usp=sharing"
+          href="https://drive.google.com/file/d/1s53ePG9PNehv3SHZQINV56nio7m90LUc/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           download
